@@ -1,4 +1,4 @@
-# Raspberry Pi 5 - Camera
+# Raspberry Pi Camera - Live streaming Image Recognition
 
 Web server in python that exposes endpoints.
 
